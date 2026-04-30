@@ -35,6 +35,8 @@ Stack: n8n, Oracle Cloud, Postgres, Notion, Groq, Telegram.
 
 Private React/Vite commercial site connecting public-facing service presentation to operational quote intake.
 
+Live: [me3design.it](https://me3design.it)
+
 > Sanitized case studies and architecture summaries:  
 > [github.com/matteopasseri407/operations-systems-portfolio](https://github.com/matteopasseri407/operations-systems-portfolio)
 
