@@ -33,7 +33,7 @@ Stack: n8n, Oracle Cloud, Postgres, Notion, Groq, Telegram.
 
 ### 3D Services Commercial Website
 
-Private React/Vite commercial site connecting public-facing service presentation to operational quote intake.
+Private-source React/Vite commercial site connecting public-facing service presentation to operational quote intake.
 
 Live: [me3design.it](https://me3design.it)
 
