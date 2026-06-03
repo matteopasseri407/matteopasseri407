@@ -1,17 +1,38 @@
 # Matteo Passeri
 
-**Operations Specialist & AI Implementation Lead**  
-Workflow automation | CRM systems | ERP transition | Lead lifecycle | Quote-to-cash
+**Technical Operations & Business Systems Specialist**  
+Operations systems | CRM/ERP workflows | n8n automation | AI-assisted implementation | Linux/ops tooling
 
-I build practical operating systems for small teams: lead intake, qualification workflows, quoting, pipeline visibility, reporting, alerting, SOPs, and AI-assisted automation.
+I build practical operating systems for small teams: lead intake, qualification workflows, quoting, pipeline visibility, reporting, alerting, SOPs, and handoff documentation.
 
-My background is operations-first: logistics, procurement, inventory, ERP transition, vendor coordination, and internal systems. I am not a pure software engineer. I use code, no-code tools, n8n, CRM logic, and AI-assisted implementation to make business workflows more measurable and easier to hand off.
+I do not position myself as a pure software engineer. My edge is operations-first system building: I use AI agents, code/no-code tools, n8n, CRM logic, Git-backed documentation, and careful validation to turn messy workflows into usable internal systems.
 
-Open to **full-remote EU roles** in Operations, Implementation, CRM / Workflow Automation, Marketing Ops, Growth Ops-adjacent work, and AI Workflow operations.
+Italy-based | Italian native | English strong written/comprehension, conversational spoken | Open to full-remote EU roles
 
----
+## Sintesi per recruiter italiani
+
+Profilo tecnico-operativo con esperienza in operations, logistica, procurement, transizione ERP, CRM/workflow automation e sistemi interni.
+
+Il punto forte non e' "scrivere codice da zero" come un developer puro, ma trasformare processi disordinati in sistemi pratici usando strumenti digitali, automazioni, documentazione, AI assistita e controllo operativo. La vetrina GitHub serve a mostrare metodo, architetture, risultati e disciplina anti-leak senza esporre sorgenti privati o dati sensibili.
+
+Target coerenti: Technical Operations, Business Systems, Implementation, CRM/Workflow Automation, Marketing/Revenue Ops, AI-enabled operations.
+
+## Public Proof Map
+
+| Proof | What to look at | Why it matters |
+| --- | --- | --- |
+| [Operations Systems Portfolio](https://github.com/matteopasseri407/operations-systems-portfolio) | Sanitized case studies for internal systems, CRM workflows, ERP transition, n8n, agent context architecture | Shows real systems without leaking private source, endpoints, workflows or client data |
+| [HP EliteBook Ryzen Tuning](https://github.com/matteopasseri407/hp-elitebook-845-g8-ryzen-tuning) | Public Linux automation project with source, release, CI, Fedora COPR, systemd/udev/GNOME docs | Shows I can ship, test, document and maintain a real technical tool |
+| [AI Enabled Ops](https://aienabledops.it) | Public site connected to a private lead qualification and booking workflow | Shows how public UX, operations logic and automation connect |
+| [ME3Design](https://me3design.it) | Public service site tied to internal quote intake and operations workflows | Shows commercial workflow thinking, not just technical demos |
 
 ## Selected Systems
+
+### Agentic Knowledge Architecture / OpsVault
+
+Git-backed, Markdown-first memory architecture for local and cloud AI agents. The public case study explains the retrieval model, sync discipline, sanitization rules, and safe portfolio extraction. The private implementation stays private because it contains operational context and infrastructure details.
+
+Case study: [English](https://github.com/matteopasseri407/operations-systems-portfolio/blob/main/case-studies/agentic-knowledge-vault-mcp.md) | [Italiano](https://github.com/matteopasseri407/operations-systems-portfolio/blob/main/case-studies/agentic-knowledge-vault-mcp-it.md)
 
 ### AI-Assisted Lead Qualification & Booking Funnel
 
@@ -27,20 +48,15 @@ Outcome: quote turnaround reduced from about 25 minutes to under 2 minutes.
 
 ### Self-Hosted n8n Automation Layer
 
-31 active workflows on Oracle Cloud for email triage, lead qualification, job screening, outreach, intelligence feeds, alerts, and operational support.
+Private automation layer supporting email triage, lead qualification, job screening, outreach, intelligence feeds, alerts, and operational support.
 
-Stack: n8n, Oracle Cloud, Postgres, Notion, Groq, Telegram.
+Stack: n8n, cloud VPS, Postgres, Notion, Groq, Telegram.
 
-### 3D Services Commercial Website
+### HP EliteBook Ryzen Thermal Profiles
 
-Private-source React/Vite commercial site connecting public-facing service presentation to operational quote intake.
+Public Linux workstation tuning and automation project for HP AMD business laptops. It includes shell/Python code, systemd services, udev rules, a GNOME Shell indicator, CI checks, releases, packaging notes, and Fedora COPR distribution.
 
-Live: [me3design.it](https://me3design.it)
-
-> Sanitized case studies and architecture summaries:  
-> [github.com/matteopasseri407/operations-systems-portfolio](https://github.com/matteopasseri407/operations-systems-portfolio)
-
----
+Repo: [hp-elitebook-845-g8-ryzen-tuning](https://github.com/matteopasseri407/hp-elitebook-845-g8-ryzen-tuning)
 
 ## Background Highlights
 
@@ -51,31 +67,27 @@ Live: [me3design.it](https://me3design.it)
 - Built systems still in use after operational handoff in two SMEs
 - Combines deterministic process design with selective AI use
 
----
-
 ## Public Proof Model
 
-Source repositories are private to protect client data, business logic, workflow exports, credentials, endpoints, and operational details.
+Source repositories are private when they protect client data, business logic, workflow exports, credentials, endpoints, operational notes, or commercially useful implementation detail.
 
 Public proof is provided through:
 
 - sanitized case studies
-- live public site where appropriate
+- public source where safe
+- live public sites where appropriate
 - architecture summaries
 - screenshots or walkthroughs with private data removed
 - live demos on call when needed
 
 This is intentional: the systems are real operational assets, not toy demos.
 
----
-
 ## Contact
 
 - Email: matteo.passeri.407@outlook.it
 - LinkedIn: [matteo-passeri-me3d](https://linkedin.com/in/matteo-passeri-me3d)
 - Site: [aienabledops.it](https://aienabledops.it)
-- Languages: Italian native; English C2 comprehension/written, B2 spoken
 
 ---
 
-Italy | Open to full-remote EU roles | April 2026
+Italy | Open to full-remote EU roles | June 2026
