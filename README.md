@@ -23,7 +23,6 @@ Target coerenti: Technical Operations, Business Systems, Implementation, CRM/Wor
 | --- | --- | --- |
 | [Operations Systems Portfolio](https://github.com/matteopasseri407/operations-systems-portfolio) | Sanitized case studies for internal systems, CRM workflows, ERP transition, n8n, agent context architecture | Shows real systems without leaking private source, endpoints, workflows or client data |
 | [HP EliteBook Ryzen Tuning](https://github.com/matteopasseri407/hp-elitebook-845-g8-ryzen-tuning) | Public Linux automation project with source, release, CI, Fedora COPR, systemd/udev/GNOME docs | Shows I can ship, test, document and maintain a real technical tool |
-| [AI Enabled Ops](https://aienabledops.it) | Public site connected to a private lead qualification and booking workflow | Shows how public UX, operations logic and automation connect |
 | [ME3Design](https://me3design.it) | Public service site tied to internal quote intake and operations workflows | Shows commercial workflow thinking, not just technical demos |
 
 ## Selected Systems
@@ -38,7 +37,7 @@ Case study: [English](https://github.com/matteopasseri407/operations-systems-por
 
 Public consulting site connected to a private lead lifecycle workflow: form intake, deterministic pre-checks, LLM-assisted scoring, CRM storage, Calendly handling, Telegram alerts, email fallbacks, and explicit handoff logic.
 
-Live: [aienabledops.it](https://aienabledops.it)
+Case study available in the operations portfolio.
 
 ### ME3Design ERP / Manager Pro
 
@@ -86,7 +85,6 @@ This is intentional: the systems are real operational assets, not toy demos.
 
 - Email: matteo.passeri.407@outlook.it
 - LinkedIn: [matteo-passeri-me3d](https://linkedin.com/in/matteo-passeri-me3d)
-- Site: [aienabledops.it](https://aienabledops.it)
 
 ---
 
