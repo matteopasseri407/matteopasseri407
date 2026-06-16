@@ -29,7 +29,7 @@ Target coerenti: Technical Operations, Business Systems, Implementation, CRM/Wor
 
 ### Multi-Agent Orchestration Architecture / OpsVault
 
-Git-backed command, memory, and coordination architecture that orchestrates AI agents across capability tiers (L0-L4) and runtime environments. A single bootstrap file governs every agent: routing rules, escalation protocols, delegation templates, and quality-cost guardrails. The public case study explains the orchestration model; the private implementation stays private.
+Working architecture that coordinates AI agents across capability tiers (L0-L4). A single Git-versioned bootstrap governs every agent: routing, escalation, delegation, quality-cost guardrails. MCP endpoints expose the knowledge base with tiered access. In daily use, not a blueprint.
 
 Case study: [English](https://github.com/matteopasseri407/operations-systems-portfolio/blob/main/case-studies/agentic-knowledge-vault-mcp.md) | [Italiano](https://github.com/matteopasseri407/operations-systems-portfolio/blob/main/case-studies/agentic-knowledge-vault-mcp-it.md)
 
