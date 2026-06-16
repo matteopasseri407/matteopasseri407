@@ -13,7 +13,7 @@ Italy-based | Italian native | English strong written/comprehension, conversatio
 
 Profilo tecnico-operativo con esperienza in operations, logistica, procurement, transizione ERP, CRM/workflow automation e sistemi interni.
 
-Il punto forte non e' "scrivere codice da zero" come un developer puro, ma trasformare processi disordinati in sistemi pratici usando strumenti digitali, automazioni, documentazione, AI assistita e controllo operativo. La vetrina GitHub serve a mostrare metodo, architetture, risultati e disciplina anti-leak senza esporre sorgenti privati o dati sensibili.
+Il punto forte non è "scrivere codice da zero" come un developer puro, ma trasformare processi disordinati in sistemi pratici usando strumenti digitali, automazioni, documentazione, AI assistita e controllo operativo. La vetrina GitHub serve a mostrare metodo, architetture, risultati e disciplina anti-leak senza esporre sorgenti privati o dati sensibili.
 
 Target coerenti: Technical Operations, Business Systems, Implementation, CRM/Workflow Automation, Marketing/Revenue Ops, AI-enabled operations.
 
