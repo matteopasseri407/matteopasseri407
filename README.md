@@ -27,9 +27,9 @@ Target coerenti: Technical Operations, Business Systems, Implementation, CRM/Wor
 
 ## Selected Systems
 
-### Agentic Knowledge Architecture / OpsVault
+### Multi-Agent Orchestration Architecture / OpsVault
 
-Git-backed, Markdown-first memory architecture for local and cloud AI agents. The public case study explains the retrieval model, sync discipline, sanitization rules, and safe portfolio extraction. The private implementation stays private because it contains operational context and infrastructure details.
+Git-backed command, memory, and coordination architecture that orchestrates AI agents across capability tiers (L0-L4) and runtime environments. A single bootstrap file governs every agent: routing rules, escalation protocols, delegation templates, and quality-cost guardrails. The public case study explains the orchestration model; the private implementation stays private.
 
 Case study: [English](https://github.com/matteopasseri407/operations-systems-portfolio/blob/main/case-studies/agentic-knowledge-vault-mcp.md) | [Italiano](https://github.com/matteopasseri407/operations-systems-portfolio/blob/main/case-studies/agentic-knowledge-vault-mcp-it.md)
 
