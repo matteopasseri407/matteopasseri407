@@ -1,7 +1,7 @@
 # Matteo Passeri
 
 **Technical Operations & Business Systems Specialist**  
-Operations systems | CRM/ERP workflows | n8n automation | AI-assisted implementation | Linux/ops tooling
+AI workflow & agent orchestration (MCP, n8n) | CRM/ERP workflows | operations systems | Linux/ops tooling
 
 I build practical operating systems for small teams: lead intake, qualification workflows, quoting, pipeline visibility, reporting, alerting, SOPs, and handoff documentation.
 
@@ -15,7 +15,7 @@ Profilo tecnico-operativo con esperienza in operations, logistica, procurement, 
 
 Il punto forte non è "scrivere codice da zero" come un developer puro, ma trasformare processi disordinati in sistemi pratici usando strumenti digitali, automazioni, documentazione, AI assistita e controllo operativo. La vetrina GitHub serve a mostrare metodo, architetture, risultati e disciplina anti-leak senza esporre sorgenti privati o dati sensibili.
 
-Target coerenti: Technical Operations, Business Systems, Implementation, CRM/Workflow Automation, Marketing/Revenue Ops, AI-enabled operations.
+Target coerenti: AI Automation, Agent Orchestration (MCP/n8n), Technical Operations, Business Systems, Implementation, CRM/Workflow Automation, Marketing/Revenue Ops.
 
 ## Public Proof Map
 
@@ -66,7 +66,7 @@ Repo: [hp-elitebook-845-g8-ryzen-tuning](https://github.com/matteopasseri407/hp-
 - Built systems still in use after operational handoff in two SMEs
 - Combines deterministic process design with selective AI use
 
-## Public Proof Model
+## How I Share Proof
 
 Source repositories are private when they protect client data, business logic, workflow exports, credentials, endpoints, operational notes, or commercially useful implementation detail.
 
