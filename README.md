@@ -21,11 +21,18 @@ Target coerenti: AI Automation, Agent Orchestration (MCP/n8n), Technical Operati
 
 | Proof | What to look at | Why it matters |
 | --- | --- | --- |
+| [n8n Lead Qualifier - 65-Node AI Workflow](https://github.com/matteopasseri407/n8n-demo) | Sanitized workflow screenshot and case-study README for lead intake, LLM scoring, CRM updates, Calendly events, Telegram alerts, fallback paths, and drop-off recovery | Strongest public proof of end-to-end AI workflow orchestration, not just a prompt or demo form |
 | [Operations Systems Portfolio](https://github.com/matteopasseri407/operations-systems-portfolio) | Sanitized case studies for internal systems, CRM workflows, ERP transition, n8n, agent context architecture | Shows real systems without leaking private source, endpoints, workflows or client data |
 | [HP EliteBook Ryzen Tuning](https://github.com/matteopasseri407/hp-elitebook-845-g8-ryzen-tuning) | Public Linux automation project with source, release, CI, Fedora COPR, systemd/udev/GNOME docs | Shows I can ship, test, document and maintain a real technical tool |
 | [ME3Design](https://me3design.it) | Public service site tied to internal quote intake and operations workflows | Shows commercial workflow thinking, not just technical demos |
 
 ## Selected Systems
+
+### n8n Lead Qualifier - 65-Node AI Workflow
+
+Self-hosted lead qualification workflow built around deterministic pre-checks, duplicate detection, homepage/social enrichment, Groq LLM scoring, Notion CRM updates, Calendly booking/cancellation handling, Telegram alerts, fallback branches, and abandoned-form recovery.
+
+Public demo: [n8n-demo](https://github.com/matteopasseri407/n8n-demo)
 
 ### Multi-Agent Orchestration Architecture / OpsVault
 
@@ -37,7 +44,7 @@ Case study: [English](https://github.com/matteopasseri407/operations-systems-por
 
 Public consulting site connected to a private lead lifecycle workflow: form intake, deterministic pre-checks, LLM-assisted scoring, CRM storage, Calendly handling, Telegram alerts, email fallbacks, and explicit handoff logic.
 
-Case study available in the operations portfolio.
+Public workflow case study: [n8n-demo](https://github.com/matteopasseri407/n8n-demo)
 
 ### ME3Design ERP / Manager Pro
 
