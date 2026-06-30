@@ -21,7 +21,7 @@ Target coerenti: AI Automation, Agent Orchestration (MCP/n8n), Technical Operati
 
 | Proof | What to look at | What it shows |
 | --- | --- | --- |
-| [Agentic Ops Architecture](https://github.com/matteopasseri407/agentic-ops) | How I run six AI models across four CLIs and two machines as one system: single source of truth, MCP tooling, self-hosted RAG, cost routing, drift checks, and a runnable governance kit | The architecture and the reasoning behind it, sanitized, with code you can actually run |
+| [The Vault 2.0 project](https://github.com/matteopasseri407/the-vault-2.0-project) | How I run six AI models across four CLIs and two machines as one system: single source of truth, MCP tooling, self-hosted RAG, cost routing, drift checks, and a runnable governance kit | The architecture and the reasoning behind it, sanitized, with code you can actually run |
 | [n8n Lead Qualifier (65-node AI workflow)](https://github.com/matteopasseri407/n8n-demo) | Sanitized workflow and case study: lead intake, LLM scoring, CRM updates, Calendly events, Telegram alerts, fallback and recovery paths | End-to-end AI workflow orchestration, not a single prompt or a contact form |
 | [HP EliteBook Ryzen Tuning](https://github.com/matteopasseri407/hp-elitebook-845-g8-ryzen-tuning) | Public Linux automation project with source, releases, CI, Fedora COPR, and systemd/udev/GNOME docs | That I can ship, test, document, and maintain a real technical tool |
 | [ME3Design](https://me3design.it) | Public service site tied to internal quote intake and operations workflows | Commercial workflow thinking, not only technical demos |
@@ -32,7 +32,7 @@ Target coerenti: AI Automation, Agent Orchestration (MCP/n8n), Technical Operati
 
 A working architecture that coordinates AI agents across capability tiers (L0 to L4). One Git-versioned policy governs every agent: routing, escalation, delegation, and quality-cost guardrails. MCP endpoints expose the knowledge base with tiered access, and a self-hosted semantic retrieval layer (RAG, CPU-only) serves it back to the agents. In daily use, not a blueprint.
 
-Public repo: [agentic-ops](https://github.com/matteopasseri407/agentic-ops) · Case study: [English](https://github.com/matteopasseri407/agentic-ops/blob/main/case-studies/agentic-knowledge-vault-mcp.md) | [Italiano](https://github.com/matteopasseri407/agentic-ops/blob/main/case-studies/agentic-knowledge-vault-mcp-it.md)
+Public repo: [the-vault-2.0-project](https://github.com/matteopasseri407/the-vault-2.0-project) · Case study: [English](https://github.com/matteopasseri407/the-vault-2.0-project/blob/main/case-studies/agentic-knowledge-vault-mcp.md) | [Italiano](https://github.com/matteopasseri407/the-vault-2.0-project/blob/main/case-studies/agentic-knowledge-vault-mcp-it.md)
 
 ### n8n Lead Qualifier (65-node AI workflow)
 
