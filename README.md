@@ -21,18 +21,18 @@ Target coerenti: AI Automation, Agent Orchestration (MCP/n8n), Technical Operati
 
 | Proof | What to look at | What it shows |
 | --- | --- | --- |
-| [The Vault 2.0 project](https://github.com/matteopasseri407/the-vault-2.0-project) | How I run six AI models across four CLIs and two machines as one system: single source of truth, MCP tooling, self-hosted RAG, cost routing, drift checks, and a runnable governance kit | The architecture and the reasoning behind it, sanitized, with code you can actually run |
+| [NeXgen Vault (AgentOps Governance)](https://github.com/matteopasseri407/NeXgen-Vault-OL) | An installable framework that governs how AI agents (Claude, Codex, Antigravity, OpenCode) operate across multiple CLIs and machines: Git-backed memory, an MCP manifest compiled per-CLI, and a 30+ point compliance check (`agent-doctor`) before agents are allowed to run | A real, runnable system you can clone and install yourself, not a write-up. Cross-platform: verified end-to-end on both Linux and Windows |
 | [n8n Lead Qualifier (65-node AI workflow)](https://github.com/matteopasseri407/n8n-demo) | Sanitized workflow and case study: lead intake, LLM scoring, CRM updates, Calendly events, Telegram alerts, fallback and recovery paths | End-to-end AI workflow orchestration, not a single prompt or a contact form |
 | [HP EliteBook Ryzen Tuning](https://github.com/matteopasseri407/hp-elitebook-845-g8-ryzen-tuning) | Public Linux automation project with source, releases, CI, Fedora COPR, and systemd/udev/GNOME docs | That I can ship, test, document, and maintain a real technical tool |
 | [ME3Design](https://me3design.it) | Public service site tied to internal quote intake and operations workflows | Commercial workflow thinking, not only technical demos |
 
 ## Selected Systems
 
-### Multi-agent ops architecture (OpsVault)
+### NeXgen Vault — AgentOps governance framework
 
-A working architecture that coordinates AI agents across capability tiers (L0 to L4). One Git-versioned policy governs every agent: routing, escalation, delegation, and quality-cost guardrails. MCP endpoints expose the knowledge base with tiered access, and a self-hosted semantic retrieval layer (RAG, CPU-only) serves it back to the agents. In daily use, not a blueprint.
+An installable framework that governs how AI agents (Claude, Codex, Antigravity, OpenCode) operate across multiple CLIs and machines. One Git-versioned policy defines behavior; an abstract MCP manifest compiles into each CLI's own config format; a Git-backed Markdown vault serves as shared memory, written through a single serialized door. In MULTI profile, `agent-doctor` runs 30+ compliance checks before agents are allowed to proceed. In daily use, not a blueprint, and cross-platform: verified end-to-end on both Linux and Windows.
 
-Public repo: [the-vault-2.0-project](https://github.com/matteopasseri407/the-vault-2.0-project) · Case study: [English](https://github.com/matteopasseri407/the-vault-2.0-project/blob/main/case-studies/agentic-knowledge-vault-mcp.md) | [Italiano](https://github.com/matteopasseri407/the-vault-2.0-project/blob/main/case-studies/agentic-knowledge-vault-mcp-it.md)
+Public repo: [NeXgen-Vault-OL](https://github.com/matteopasseri407/NeXgen-Vault-OL)
 
 ### n8n Lead Qualifier (65-node AI workflow)
 
@@ -69,9 +69,9 @@ Source repositories stay private when they hold client data, business logic, wor
 
 ## Contact
 
-- Email: matteo.passeri.407@outlook.it
+- Email: matteo.passeri.407@gmail.com
 - LinkedIn: [matteo-passeri-me3d](https://linkedin.com/in/matteo-passeri-me3d)
 
 ---
 
-Italy | Open to full-remote EU roles | June 2026
+Italy | Open to full-remote EU roles | July 2026
