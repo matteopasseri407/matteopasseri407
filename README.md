@@ -1,77 +1,51 @@
 # Matteo Passeri
 
 **Technical Operations & Business Systems Specialist**  
-AI workflow & agent orchestration (MCP, n8n) | CRM/ERP workflows | operations systems | Linux/ops tooling
+AI automation, agent orchestration, n8n, CRM/ERP workflows
 
-I build practical operating systems for small teams: lead intake, qualification workflows, quoting, pipeline visibility, reporting, alerting, SOPs, and handoff documentation.
+I turn messy operational work into systems people can use: workflows, internal tools, documentation, alerts, and handoffs.
+My background is in logistics, procurement, ERP transition, and technical operations.
+I use AI and code/no-code tools to implement and validate these systems.
+I am not presenting myself as a pure software developer.
 
-I do not position myself as a pure software engineer. My edge is operations-first system building: I use AI agents, code/no-code tools, n8n, CRM logic, Git-backed documentation, and careful validation to turn messy workflows into usable internal systems.
+Based in Italy. Italian native. English: EF SET C2 reading/listening, spoken C1. Open to remote EU roles.
 
-Italy-based | Italian native | English strong written/comprehension, conversational spoken | Open to full-remote EU roles
+## Best fit
 
-## Sintesi per recruiter italiani
+AI automation and implementation · Agent orchestration · Technical operations · Business systems · CRM/ERP workflow automation
 
-Profilo tecnico-operativo con esperienza in operations, logistica, procurement, transizione ERP, CRM/workflow automation e sistemi interni.
+## Selected proof
 
-Il punto forte non è "scrivere codice da zero" come un developer puro, ma trasformare processi disordinati in sistemi pratici usando strumenti digitali, automazioni, documentazione, AI assistita e controllo operativo. La vetrina GitHub mostra metodo, architetture, risultati e disciplina anti-leak senza esporre sorgenti privati o dati sensibili.
+- [NeXgen Engine](https://github.com/matteopasseri407/NeXgen-Engine), a Git-based framework that keeps AI tools, configuration, and working memory consistent across CLIs and machines. It includes installation, synchronization, live-state checks, and Linux/Windows paths, and has been exercised across four PCs.
+- [n8n Lead Qualifier](https://github.com/matteopasseri407/n8n-demo), a 65-node workflow with deterministic filters, duplicate checks, LLM scoring, CRM updates, alerts, booking events, fallback, and recovery.
+- [HP EliteBook Ryzen Tuning](https://github.com/matteopasseri407/hp-elitebook-845-g8-ryzen-tuning), a public Linux automation project with source, tests, releases, systemd, udev, and Fedora packaging work.
 
-Target coerenti: AI Automation, Agent Orchestration (MCP/n8n), Technical Operations, Business Systems, Implementation, CRM/Workflow Automation, Marketing/Revenue Ops.
+## Work evidence
 
-## Public Proof Map
+- 10 years across operations, procurement, ERP transition, and internal systems.
+- Led a six-month eSolver ERP migration across purchasing, warehouse, and production.
+- Managed EUR 240k in annual procurement across 17 suppliers.
+- Contributed to roughly EUR 300k of inventory and working-capital cleanup.
+- Reduced quoting time at ME3Design from about 25 minutes to under 2.
 
-| Proof | What to look at | What it shows |
-| --- | --- | --- |
-| [NeXgen Vault (AgentOps Governance)](https://github.com/matteopasseri407/NeXgen-Vault-OL) | An installable framework that governs how AI agents (Claude, Codex, Antigravity, OpenCode) operate across multiple CLIs and machines: Git-backed memory, an MCP manifest compiled per-CLI, and a 30+ point compliance check (`agent-doctor`) before agents are allowed to run | A real, runnable system you can clone and install yourself, not a write-up. Cross-platform: verified end-to-end on both Linux and Windows |
-| [n8n Lead Qualifier (65-node AI workflow)](https://github.com/matteopasseri407/n8n-demo) | Sanitized workflow and case study: lead intake, LLM scoring, CRM updates, Calendly events, Telegram alerts, fallback and recovery paths | End-to-end AI workflow orchestration, not a single prompt or a contact form |
-| [HP EliteBook Ryzen Tuning](https://github.com/matteopasseri407/hp-elitebook-845-g8-ryzen-tuning) | Public Linux automation project with source, releases, CI, Fedora COPR, and systemd/udev/GNOME docs | That I can ship, test, document, and maintain a real technical tool |
-| [ME3Design](https://me3design.it) | Public service site tied to internal quote intake and operations workflows | Commercial workflow thinking, not only technical demos |
+## Italiano
 
-## Selected Systems
+Sono uno specialista tecnico-operativo con esperienza in operations, procurement, transizione ERP e sistemi interni.
+Trasformo processi disordinati in workflow, strumenti, documentazione, alert e passaggi di consegna utilizzabili.
+Uso AI, n8n e strumenti code/no-code per implementare e verificare il risultato.
+Il mio profilo non è quello di uno sviluppatore software puro.
 
-### NeXgen Vault — AgentOps governance framework
+### Ruoli coerenti
 
-An installable framework that governs how AI agents (Claude, Codex, Antigravity, OpenCode) operate across multiple CLIs and machines. One Git-versioned policy defines behavior; an abstract MCP manifest compiles into each CLI's own config format; a Git-backed Markdown vault serves as shared memory, written through a single serialized door. In MULTI profile, `agent-doctor` runs 30+ compliance checks before agents are allowed to proceed. In daily use, not a blueprint, and cross-platform: verified end-to-end on both Linux and Windows.
+AI automation e implementazione · Orchestrazione di agenti · Technical operations · Business systems · Automazione di workflow CRM/ERP
 
-Public repo: [NeXgen-Vault-OL](https://github.com/matteopasseri407/NeXgen-Vault-OL)
+### Prove pubbliche
 
-### n8n Lead Qualifier (65-node AI workflow)
+- [NeXgen Engine](https://github.com/matteopasseri407/NeXgen-Engine), framework Git per mantenere coerenti tool AI, configurazione e memoria di lavoro tra più CLI e macchine.
+- [n8n Lead Qualifier](https://github.com/matteopasseri407/n8n-demo), workflow da 65 nodi con filtri deterministici, deduplica, scoring LLM, CRM, alert, fallback e recupero dei lead interrotti.
+- [HP EliteBook Ryzen Tuning](https://github.com/matteopasseri407/hp-elitebook-845-g8-ryzen-tuning), progetto pubblico di automazione Linux con codice, test, release e servizi Fedora.
 
-Self-hosted lead qualification built around deterministic pre-checks, duplicate detection, homepage and social enrichment, Groq LLM scoring, Notion CRM updates, Calendly booking and cancellation handling, Telegram alerts, fallback branches, and abandoned-form recovery.
-
-Public demo: [n8n-demo](https://github.com/matteopasseri407/n8n-demo)
-
-### ME3Design ERP / Manager Pro
-
-A private ERP-style operations platform covering the quote-to-cash loop for a custom 3D-printing workflow: clients, projects, quoting, work logs, delivery, P&L visibility, analytics, lead webhooks, and AI-assisted estimation. Quote turnaround dropped from about 25 minutes to under 2.
-
-### Self-hosted n8n automation layer
-
-A private automation layer for email triage, lead qualification, job screening, outreach, intelligence feeds, alerts, and operational support. Stack: n8n, a cloud VPS, Postgres, Notion, Groq, Telegram.
-
-### HP EliteBook Ryzen thermal profiles
-
-A public Linux tuning and automation project for HP AMD business laptops: shell and Python code, systemd services, udev rules, a GNOME Shell indicator, CI checks, releases, packaging notes, and Fedora COPR distribution.
-
-Repo: [hp-elitebook-845-g8-ryzen-tuning](https://github.com/matteopasseri407/hp-elitebook-845-g8-ryzen-tuning)
-
-## Background highlights
-
-- 10 years across logistics, procurement, ERP transition, and operational systems
-- Led a 6-month eSolver ERP migration across purchasing, warehouse, and production
-- Managed EUR 240k annual procurement spend across 17 vendors
-- Unlocked EUR 300k in working capital through inventory analysis
-- Built systems still in use after operational handoff in two SMEs
-- Pairs deterministic process design with selective AI use
-
-## How I share proof
-
-Source repositories stay private when they hold client data, business logic, workflow exports, credentials, endpoints, operational notes, or commercially useful detail. Public proof comes through sanitized case studies, public source where it's safe, live sites where they fit, architecture summaries, screenshots with private data removed, and live demos on a call. The systems are real operational assets, not toy demos.
-
-## Contact
+## Contatti
 
 - Email: matteo.passeri.407@gmail.com
-- LinkedIn: [matteo-passeri-me3d](https://linkedin.com/in/matteo-passeri-me3d)
-
----
-
-Italy | Open to full-remote EU roles | July 2026
+- [LinkedIn](https://linkedin.com/in/matteo-passeri-me3d)
